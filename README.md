@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-Monirulcnn/Monirulcnn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Monirulcnn/Monirulcnn is a ✨ special ✨ repository because its `https://github.com/Monirulcnn/Monirulcnn/releases` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
